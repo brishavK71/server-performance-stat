@@ -1,7 +1,6 @@
 # server-performance-stat
 
-
-[https://github.com/brishavK71/server-performance-stat](https://roadmap.sh/projects/server-stats)
+https://roadmap.sh/projects/server-stats
 
 clone the git repo and navigate to the directory 
 
